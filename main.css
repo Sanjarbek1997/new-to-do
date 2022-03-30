@@ -1,0 +1,12 @@
+.list__item {
+    position: relative;
+}
+.list__item:hover{
+    background-color: blue;
+    color: white;
+}
+.list__btn {
+    position: absolute;
+    right: 5px;
+    top: 4px;
+}
